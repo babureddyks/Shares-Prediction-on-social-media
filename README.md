@@ -1,1 +1,1 @@
-# Project-Shares-Prediction-on-social-media
+# Shares-Prediction-on-social-media
