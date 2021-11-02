@@ -9,18 +9,6 @@ Using Machine Learning techniques to determine the popularity of online news.
 
 We've tried to implement and improvise upon the techniques implemented in this paper - <http://cs229.stanford.edu/proj2015/328_report.pdf>. The dataset we use is the `UCI's Online News Popularity dataset` - <https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity>  
 
-For dimensionality reduction, `Fischer Scores` were used as doing so yielded better results than `PCA`.  
-
-The ML algos used are:  
-1. Linear Regression  
-2. Logistic Regression  
-3. Naive Bayes classifier  
-4. MLP/Neural Nets  
-5. SVM  
-6. Random Forest  
-7. REPTree  
-
-
 
 Please go through notebook everything is mentioned in detail.
 https://github.com/Babu6030/Project-Shares-Prediction-on-social-media/blob/main/projectmedia1.ipynb
